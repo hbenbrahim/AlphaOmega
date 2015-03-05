@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="AlphaOmega, investir au Maroc, investir en afrique du nord, investir, maroc, Afrique Nord, industrie, energie renouvelable, tourisme, solair, éolien, logistique, créer entreprise maroc, coûts production, incitations, fiscalité">
+    <meta name="author" content="Hamza Benbrahim" >
+    <meta name="robots" content="index follow" />
+    <meta name="distribution" content="global" />
+    <meta name="keywords" lang="fr" content="invest in Morocco, invest in north africa, invest, morocco, North Africa, industry, renewable energy, tourism, solar, éolien, logistics, create business morocco, production costs, incitations, fiscalité" />
+
+    <title>AlphaOmegaInvest | Investir au Maroc</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="../css/scrolling-nav.css" rel="stylesheet">
+    <link href="../css/carousel.css" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.../js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="index.html">AlphaOmega Invest</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav">
+                    <li><a class="page-scroll" href="#main">General</a>
+                    </li>
+                    <li><a class="page-scroll" href="#code">Code du Travail</a>
+                    </li>
+                    <li><a class="page-scroll" href="#copyright">Copyright et Droits Voisins</a>
+                    </li>
+                    <li><a class="page-scroll" href="#competition">Concurrence</a>
+                    </li>
+                    <li><a class="page-scroll" href="#protection">Protection des donn&eacute; p&eacute;rsonnelles</a>
+                    </li>
+                    <li><a class="page-scroll" href="#contact-form">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <div id="main" class="jumbotron">
+        <div class="container">
+            <hr class="featurette-divider">
+            <h1>Aspect L&eacute;gal</h1>
+            <p>Conid&eacute;rant les investisseurs comme un facteur d&eacute;terminant pour assurer une croissance &eacute;conomique durable, le Maroc s’est engag&eacute; dans une lib&eacute;ralisation de son &eacute;conomie en assouplissant les proc&eacute;dures, en offrant une meilleure protection aux op&eacute;rateurs priv&eacute;s en adoptant de nouvelles lois visant l’am&eacute;lioration des conditions d'investissement dans le but de capter un flux significatif de capitaux priv&eacute;s nationaux et &eacute;trangers</p>
+            <p><a class="btn btn-primary page-scroll" href="#code" role="button">En Savoir plus &raquo;</a>
+            </p>
+        </div>
+    </div>
+
+    <!-- Marketing container -->
+    <div class="container marketing">
+
+        <!-- START THE FEATURETTES -->
+
+        <hr id="code" class="featurette-divider">
+
+        <!-- Featurette 2 -->
+        <div class="row featurette">
+            <div class="col-md-5">
+                <img class="featurette-image img-responsive" src="../img/labor.jpg" alt="Featurette 2">
+            </div>
+            <div class="col-md-7">
+                <h2 class="featurette-heading">Code du <span class="text-muted">Travail.</span></h2>
+                <p class="lead">Ce code se caract&eacute;rise par sa conformit&eacute; avec les principes de base fix&eacute;s par la Constitution et avec les normes internationales telles que pr&eacute;vues dans les conventions des Nations unies. Droits parmis lesquels on trouve : La libert&eacute; syndicale et l'adoption effective du droit d'organisation et de n&eacute;gociation collective ainsi que l'interdiction de toutes formes de travail par contrainte, entre autres.</p>
+            </div>
+        </div>
+        <!-- ./Featurette 2 -->
+
+        <hr id="copyright" class="featurette-divider">
+
+        <!-- Featurette 3 -->
+        <div class="row featurette">
+            <div class="col-md-7">
+                <h2 class="featurette-heading">Droits d'Auteur et<span class="text-muted"> Droits Voisins</span></h2>
+                <p class="lead">Ces mesures visent &agrave; harmoniser la l&eacute;gislation nationale avec les engagements pris par le Maroc en mati&egrave;re de trait&eacute;s et accords internationaux tels que l'Accord sur les ADPIC ( aspects commerciaux des droits de propri&eacute;t&eacute; intellectuelle ) de l'Organisation mondiale (OMC ) et les trait&eacute;s de l'OMPI . Le Bureau marocain du droit d'auteur, sous la tutelle du minist&egrave;re de la Communication, est responsable de la protection et de l'exploitation du droit d'auteur et des droits voisins</p>
+            </div>
+            <div class="col-md-5">
+                <img class="featurette-image img-responsive" src="../img/copyright-symbol.jpg" alt="Featurette 3">
+            </div>
+        </div>
+        <!-- ./Featurette 3 -->
+
+        <hr id="competition" class="featurette-divider">
+
+        <!-- Featurette 2 -->
+        <div class="row featurette">
+            <div class="col-md-5">
+                <img class="featurette-image img-responsive" src="../img/competition.jpg" alt="Featurette 2">
+            </div>
+            <div class="col-md-7">
+                <h2 class="featurette-heading">Droit de <span class="text-muted">Concurrence.</span></h2>
+                <p class="lead">La loi interdit les pratiques anticoncurrentielles qui pourraient emp&ecirc;cher, restreindre ou fausser la concurrence sur le march&eacute; national. Ces pratiques sont : les accords , l'abus de position dominante ou l'abus de la d&eacute;pendance &eacute;conomique. Les sanctions pr&eacute;vues par la loi sont essentiellement financi&egrave;res. Les niveaux de sanctions sont d&eacute;termin&eacute;s en fonction de la gravit&eacute; de l'infraction et le pr&eacute;judice subi par le march&eacute; ou par ses op&eacute;rateurs et les circonstances qui les justifient.</p>
+            </div>
+        </div>
+        <!-- ./Featurette 4 -->
+
+        <hr id="protection" class="featurette-divider">
+
+        <!-- Featurette 5 -->
+        <div class="row featurette">
+            <div class="col-md-7">
+                <h2 class="featurette-heading">Protection des <span class="text-muted">Donn&eacute;es Personnelles</span></h2>
+                <p class="lead">La loi d&eacute;finit, entre autres et avec pr&eacute;cision, le droit d'acc&egrave;s aux bases de donn&eacute;es contenant des donn&eacute;es personnelles, de se opposer &agrave; certains traitements, de demander la correction des donn&eacute;es ou la suppression des donn&eacute;es obsol&egrave;tes dont la finalit&eacute; du traitement a &eacute;t&eacute; r&eacute;alis&eacute;e. Avec l'adoption de la loi 09-08, le Maroc se place parmi les premiers pays arabes et africains disposant d'un syst&egrave;me de protection aussi complet, et se positionne parmi les destinations s&ucirc;res du point de vue de la circulation des donn&eacute;es personnelles.</p>
+            </div>
+            <div class="col-md-5">
+                <img class="featurette-image img-responsive" src="../img/dataprotection.jpg" alt="Featurette 3">
+            </div>
+        </div>
+        <!-- ./Featurette 5 -->
+        <hr class="featurette-divider">
+        <!-- /END THE FEATURETTES -->
+
+    </div>
+    <!-- /.container -->
+    <!-- Contact Form -->
+    <div id="contact-form">
+        <div class="container">
+            <div class="row">
+                <form role="form" action="mail.php" method="post">
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <label for="InputName">Votre nom</label>
+                            <div class="input-group">
+                                <input type="text" class="form-control" name="InputName" id="InputName" placeholder="Enter Name" required>
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="InputEmail">Votre Email</label>
+                            <div class="input-group">
+                                <input type="email" class="form-control" id="InputEmail" name="InputEmail" placeholder="Enter Email" required>
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="InputMessage">Message</label>
+                            <div class="input-group">
+                                <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" required></textarea>
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span>
+                            </div>
+                        </div>
+                        <input type="submit" name="submit" id="submit" value="Submit" class="btn btn-lg btn-primary pull-right">
+                    </div>
+                </form>
+                <hr class="featurette-divider hidden-lg">
+                <div class="col-lg-5 col-md-push-1">
+                    <address>
+    <h3>Coordonn&eacute;es</h3>
+    <p class="lead"><a href="https://www.google.com/maps/place/Avenue+Mohamed+V,+Rabat,+Maroc
+    /@34.0138763,-6.8326753,17z/data=!3m1!4b1!4m2!3m1!1s0xda76b872cb63881:0x7703f3debaf3860">
+    379, BD. Med V Appt 1 Bis
+<br>
+Rabat, Maroc</a><br>
+      Phone: +212 661 40 53 65 <br>
+      Fax: +212 537 56 39 56 <br>
+      Mail: info@alphaomegainvest.com</p>
+      
+    </address>
+                </div>
+            </div>
+            <!-- ./Row -->
+        </div>
+    </div>
+    <!-- ./Contact Form -->
+    <!-- FOOTER -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2015 AlphaOmega Invest.</p>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="../js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../js/bootstrap.min.js"></script>
+
+    <!-- Scrolling Nav JavaScript -->
+    <script src="../js/jquery.easing.min.js"></script>
+    <script src="../js/scrolling-nav.js"></script>
+
+</body>
+
+</html>

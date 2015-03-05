@@ -1,0 +1,86 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="AlphaOmega, invest in Morocco, invest in north africa, invest, morocco, North Africa, industry, renewable energy, tourism, solar, éolien, logistics, create business morocco, production costs, incitations, fiscalité">
+    <meta name="author" content="Hamza Benbrahim" >
+    <meta name="robots" content="index follow" />
+    <meta name="distribution" content="global" />
+    <meta name="keywords" lang="en" content="invest in Morocco, invest in north africa, invest, morocco, North Africa, industry, renewable energy, tourism, solar, éolien, logistics, create business morocco, production costs, incitations, fiscalité" />
+
+    <title>AlphaOmega Invest | Invest in Morocco</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/cover.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand"></h3>
+              <nav>
+                <ul class="nav masthead-nav">
+                </ul>
+              </nav>
+            </div>
+          </div>
+
+          <div class="inner cover">
+            <p class="lead"><img src="img/logo.png"/></p>
+            <p class="lead">
+             Welcome ! | Bienvenue ! 
+            </p>
+            <p class="lead">
+             <h2> Please choose your language </h2>
+            </p>
+            <p class="lead">
+             <h2> Merci de choisir votre langue </h2>
+            </p>
+            <p>
+                <a href="fr/index.html"><img src="img/francais_icon.png"></a>
+                <a href="eng/index.html"><img src="img/uk_icon.png"></a>
+            </p>
+          </div>
+
+          <div class="mastfoot">
+            <div class="inner">
+              <p>© 2015 AlphaOmegaInvest All Rights Reserved</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/docs.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>

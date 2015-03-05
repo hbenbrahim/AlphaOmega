@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="AlphaOmega, investir au Maroc, investir en afrique du nord, investir, maroc, Afrique Nord, industrie, energie renouvelable, tourisme, solair, éolien, logistique, créer entreprise maroc, coûts production, incitations, fiscalité">
+    <meta name="author" content="Hamza Benbrahim" >
+    <meta name="robots" content="index follow" />
+    <meta name="distribution" content="global" />
+    <meta name="keywords" lang="fr" content="invest in Morocco, invest in north africa, invest, morocco, North Africa, industry, renewable energy, tourism, solar, éolien, logistics, create business morocco, production costs, incitations, fiscalité" />
+
+    <title>AlphaOmegaInvest | Investements in Morocco</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="../css/scrolling-nav.css" rel="stylesheet">
+    <link href="../css/carousel.css" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.../js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="index.html">AlphaOmega Invest</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav">
+                    <li><a class="page-scroll" href="#main2">General</a>
+                    </li>
+                    <li><a class="page-scroll" href="#tourism">Tourisme</a>
+                    </li>
+                    <li><a class="page-scroll" href="#agriculture">Agriculture</a>
+                    </li>
+                    <li><a class="page-scroll" href="#fishing">P&ecirc;che</a>
+                    </li>
+                    <li><a class="page-scroll" href="#retail">Commerce</a>
+                    </li>
+                    <li><a class="page-scroll" href="#contact-form">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <div id="main2" class="jumbotron">
+        <div class="container">
+            <hr class="featurette-divider">
+            <h1>March&eacute;s</h1>
+            <p>Le Maroc offre une grande vari&eacute;t&eacute; de possibilit&eacute;s d'investissement, AlphaOmega Invest vous aide &agrave; d&eacute;terminer ce qui vous conviendrait le mieux, voici quelques exemples de secteurs que nous consid&eacute;rons comme les plus pro&eacute;minents au Maroc.</p>
+            <p><a class="btn btn-primary page-scroll" href="#code" role="button">Learn more &raquo;</a>
+            </p>
+        </div>
+    </div>
+
+    <!-- Marketing container -->
+    <div class="container marketing">
+
+        <!-- START THE FEATURETTES -->
+
+        <hr id="tourism" class="featurette-divider">
+
+        <!-- Featurette 2 -->
+        <div class="row featurette">
+            <div class="col-md-5">
+                <img class="featurette-image img-responsive" src="../img/Sahara_caravane.jpg" alt="Featurette 2">
+            </div>
+            <div class="col-md-7">
+                <h2 class="featurette-heading">Tour<span class="text-muted">ism.</span></h2>
+                <p class="lead">Le Maroc est une destination touristique tr&egrave;s appr&eacute;ci&eacute;e qui offre des paysages tr&egrave; vari&eacute;s et contrast&eacute;s ( 3500 km de côtes, montagnes, d&eacute;serts ...), un riche patrimoine culturel (villes imp&eacute;riales, vieilles villes, artisanat), le Maroc est une destination touristique unique et diversifi&eacute;e et l'une des plus proches des villes europ&eacute;ennes majeures ainsi que des Continents occidentaux.</p>
+            </div>
+        </div>
+        <!-- ./Featurette 2 -->
+
+        <hr id="agriculture" class="featurette-divider">
+
+        <!-- Featurette 3 -->
+        <div class="row featurette">
+            <div class="col-md-7">
+                <h2 class="featurette-heading">Agri<span class="text-muted">culture</span></h2>
+                <p class="lead">Le secteur agricole contribue &agrave; 19% du PIB national, partag&eacute; entre l'agriculture ( 15%) et l'agro-industrie ( 4 % ). Ce secteur emploie plus de 4 millions de personnes dont environ 100 000 dans l'agro- industrie.</br>
+                    La nouvelle strat&eacute;gie agricole, Plan Maroc Vert, vise &agrave; consolider la comp&eacute;titivit&eacute; du Maroc et son ouverture.</p>
+            </div>
+            <div class="col-md-5">
+                <img class="featurette-image img-responsive" src="../img/Agriculture.PNG" alt="Featurette 3">
+            </div>
+        </div>
+        <!-- ./Featurette 3 -->
+
+        <hr id="fishing" class="featurette-divider">
+
+        <!-- Featurette 2 -->
+        <div class="row featurette">
+            <div class="col-md-5">
+                <img class="featurette-image img-responsive" src="../img/Essaouira.jpg" alt="Featurette 2">
+            </div>
+            <div class="col-md-7">
+                <h2 class="featurette-heading">Industrie <span class="text-muted">Maritime.</span></h2>
+                <p class="lead">Le secteur de la p&ecirc;che au Maroc s’est dot&eacute; d’une strat&eacute;gie int&eacute;gr&eacute;e, ambitieuse et globale de d&eacute;veloppement &agrave; l'horizon 2020 baptis&eacute;e « Halieutis». Elle vise la mise &egrave; niveau et la modernisation des diff&ecirc;rents segments du secteur de la  p&ecirc;che ainsi que l'am&eacute;lioration de sa comp&eacute;titivit&eacute; et de sa performance.</p>
+            </div>
+        </div>
+        <!-- ./Featurette 4 -->
+
+        <hr id="retail" class="featurette-divider">
+
+        <!-- Featurette 5 -->
+        <div class="row featurette">
+            <div class="col-md-7">
+                <h2 class="featurette-heading">Commerce</h2>
+                <p class="lead">Le commerce int&eacute;rieur contribue &agrave; hauteur de 11% du PIB et emploie environ 1,2 million de personnes soit 12,8% de la population active marocaine. Le commerce int&eacute;rieur a connu, durant cette derni&egrave;re d&eacute;cennie, l’&eacute;mergence de nouveaux modes de commerce et plus particuli&egrave;rement les r&eacute;seaux de franchise et de grande distribution.</p>
+            </div>
+            <div class="col-md-5">
+                <img class="featurette-image img-responsive" src="../img/mall.JPG" alt="Featurette 3">
+            </div>
+        </div>
+        <!-- ./Featurette 5 -->
+
+        <!-- /END THE FEATURETTES -->
+    </div>
+    <hr class="featurette-divider">
+    <!-- /.container -->
+    <!-- Contact Form -->
+    <div id="contact-form">
+        <div class="container">
+            <div class="row">
+                <form role="form" action="mail.php" method="post">
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <label for="InputName">Votre nom</label>
+                            <div class="input-group">
+                                <input type="text" class="form-control" name="InputName" id="InputName" placeholder="Enter Name" required>
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="InputEmail">Votre Email</label>
+                            <div class="input-group">
+                                <input type="email" class="form-control" id="InputEmail" name="InputEmail" placeholder="Enter Email" required>
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="InputMessage">Message</label>
+                            <div class="input-group">
+                                <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" required></textarea>
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span>
+                            </div>
+                        </div>
+                        <input type="submit" name="submit" id="submit" value="Submit" class="btn btn-lg btn-primary pull-right">
+                    </div>
+                </form>
+                <hr class="featurette-divider hidden-lg">
+                <div class="col-lg-5 col-md-push-1">
+                    <address>
+    <h3>Coordonn&eacute;es</h3>
+    <p class="lead"><a href="https://www.google.com/maps/place/Avenue+Mohamed+V,+Rabat,+Maroc
+    /@34.0138763,-6.8326753,17z/data=!3m1!4b1!4m2!3m1!1s0xda76b872cb63881:0x7703f3debaf3860">
+    379, BD. Med V Appt 1 Bis
+<br>
+Rabat, Maroc</a><br>
+      Phone: +212 661 40 53 65 <br>
+      Fax: +212 537 56 39 56 <br>
+      Mail: info@alphaomegainvest.com</p>
+      
+    </address>
+                </div>
+            </div>
+            <!-- ./Row -->
+        </div>
+    </div>
+    <!-- ./Contact Form -->
+    <!-- FOOTER -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2015 AlphaOmega Invest.</p>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="../js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../js/bootstrap.min.js"></script>
+
+    <!-- Scrolling Nav JavaScript -->
+    <script src="../js/jquery.easing.min.js"></script>
+    <script src="../js/scrolling-nav.js"></script>
+
+</body>
+
+</html>
