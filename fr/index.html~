@@ -153,7 +153,7 @@
                 <img class="img-circle" src="../img/network.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
                 <h2>R&eacute;seau &Eacute;tendu</h2>
                 <p>Notre r&eacute;seau &eacute;tendu de collaborateurs hautement qualifi&eacute;s vous offrira toutes les informations dont vous avez besoin au bon moment afin d'&ecirc;tre le plus comp&eacute;titif possible.</p>
-                <p><a class="btn btn-default" href="./soon/index.html" role="button">Voir d&eacute;tails &raquo;</a>
+                <p><a class="btn btn-default" href="../soon/index.html" role="button">Voir d&eacute;tails &raquo;</a>
                 </p>
             </div>
             <!-- /.col-lg-4 -->
