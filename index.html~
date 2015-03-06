@@ -57,8 +57,8 @@
              <h2> Merci de choisir votre langue </h2>
             </p>
             <p>
-                <a href="fr/index.html"><img src="img/francais_icon.png"></a>
                 <a href="eng/index.html"><img src="img/uk_icon.png"></a>
+                <a href="fr/index.html"><img src="img/francais_icon.png"></a>
             </p>
           </div>
 
