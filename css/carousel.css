@@ -72,6 +72,11 @@ body {
     background-image: url('../img/Construct.jpg');
     background-repeat: repeat;
 }
+#main3 {
+	background-color: #53bf6b;
+	padding-top: 150px;
+	color: #fff;
+}
 
 #contact-form{
     padding-top: 150px;
